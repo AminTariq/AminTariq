@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:amint2k22@gmail.com" target = "_blank"
-    <img src="" alt=Gmail"/>
+    <img src="./images/gmail.png" alt=Gmail"/>
   </a>
   &emsp;
 </p>
