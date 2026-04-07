@@ -84,7 +84,12 @@
 ## Github Analytics 
 
 <details><summary><h3> Streak Stats </h3></summary>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AminTariq&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=AminTariq&theme=dark&dates=transparent"
+    alt="GitHub Streak"
+  />
+</a>
 </details>
 
 <!-- <details><summary><h3> Contribution Stats</h3></summary>
