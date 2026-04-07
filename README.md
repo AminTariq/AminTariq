@@ -80,3 +80,50 @@
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=AminTariq&theme=graywhite" />
   </a>
 </details>
+
+## Github Analytics 
+
+<details><summary><h3> Streak Stats </h3></summary>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AminTariq&theme=dark" alt="GitHub Streak" /></a>
+</details>
+
+<!-- <details><summary><h3> Contribution Stats</h3></summary>
+<!-- not working right now
+<p align="center">
+	<img alt="AminTariq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AminTariq&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+<br/>
+</p>
+</details> -->
+
+<details><summary><h3> Contribution Graph</h3></summary>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminTariq&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<br/>
+</div>
+
+</details>
+
+<!--
+<details><summary><h3> Top Languages</h3></summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminTariq&layout=pie&theme=dark&hide=html,jupyter%20notebook" alt="Top Languages">
+</p>
+
+<br/> 
+
+</details -->
+
+## PacMan
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AminTariq.AminTariq&"  />
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph.svg">
+</picture>
