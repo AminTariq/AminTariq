@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Amin Tariq
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DealFlow: AI Sales Representative
@@ -11,3 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Game Dev in my free time
 
+## Contact
+
+<p align="center">
+  <a href="mailto:amint2k22@gmail.com" target = "_blank"
+    <img src="" alt=Gmail"/>
+  </a>
+  &emsp;
+</p>
+</br>
