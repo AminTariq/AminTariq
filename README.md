@@ -73,3 +73,10 @@
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
 </p>
+
+## My Repositories
+<details><summary><h3> Work In Progress </h3></summary>
+  <a href="https://github.com/AminTariq/AminTariq">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=AminTariq&theme=graywhite" />
+  </a>
+</details>
