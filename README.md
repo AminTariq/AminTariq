@@ -122,11 +122,6 @@
 
 ## PacMan
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AminTariq.AminTariq&"  />
-</div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph.svg">
