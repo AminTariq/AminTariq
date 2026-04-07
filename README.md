@@ -15,7 +15,9 @@
 </p>
 
 <hr> 
- 
+
+## About me
+
 - 🔭 I’m currently working on DealFlow: AI Sales Representative
 - 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on AI Projects
@@ -120,7 +122,7 @@
 
 </details -->
 
-## PacMan
+## Contribution PacMan
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph-dark.svg">
