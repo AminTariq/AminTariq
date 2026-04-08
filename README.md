@@ -77,9 +77,9 @@
 </p>
 
 ## My Repositories
-<details><summary><h3> Work In Progress </h3></summary>
-  <a href="https://github.com/AminTariq/AminTariq">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=AminTariq&theme=graywhite" />
+<!-- <details><summary><h3> Work In Progress </h3></summary> -->
+  <a href="https://github.com/AminTariq/hcip-2024-image-captioning">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=hcip-2024-image-captioning&theme=graywhite" />
   </a>
 </details>
 
