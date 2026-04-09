@@ -81,6 +81,9 @@
   <a href="https://github.com/AminTariq/hcip-2025-image-captioning">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=hcip-2025-image-captioning&theme=graywhite" />
   </a>
+  <a href="https://github.com/AminTariq/Moain-Smart-Professor-Assistant">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=Moain-Smart-Professor-Assistant&theme=graywhite" />
+  </a>
 </details>
 
 ## Github Analytics 
