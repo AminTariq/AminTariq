@@ -18,10 +18,10 @@
 
 ## About me
 
-- 🔭 I’m currently working on DealFlow: AI Sales Representative
-- 🌱 I’m currently learning FastAPI
+- 🔭 I’m currently working on production grade ai applications
+- 🌱 I’m currently learning MCP
 - 👯 I’m looking to collaborate on AI Projects
-- 💬 Ask me about N8N
+- 💬 Ask me about n8n, automation and FastAPI
 - 📫 How to reach me: amint2k22@gmail.com
 - ⚡ Fun fact: Game Dev in my free time
 
