@@ -75,8 +75,8 @@
   <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
 </p>
 
-## My Repositories
-<!-- <details><summary><h3> Work In Progress </h3></summary> -->
+<!-- ## My Repositories
+<!-- <details><summary><h3> Work In Progress </h3></summary> ---
   <a href="https://github.com/AminTariq/hcip-2025-image-captioning">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AminTariq&repo=hcip-2025-image-captioning&theme=graywhite" />
   </a>
@@ -102,7 +102,7 @@
 	<img alt="AminTariq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AminTariq&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 <br/>
 </p>
-</details> -->
+</details> ---
 
 <details><summary><h3> Contribution Graph</h3></summary>
 
@@ -122,7 +122,7 @@
 
 <br/> 
 
-</details -->
+</details 
 
 ## Contribution PacMan
 
@@ -130,4 +130,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AminTariq/AminTariq/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
